@@ -1,6 +1,6 @@
 # Creating-Moneyball-FC-in-Fantasy-Premier-League
 
-DBA5103 Term Project. Predicting the expected points of Fantasy Premier League players and optimizing over 10 Gameweeks
+DBA5103 Term Project. Predicting the expected points of Fantasy Premier League players and optimizing points over 10 Gameweeks with game constraints and rules
 
 ### Collaborators
 Sae Jin Jang (@saejin123)<br>
